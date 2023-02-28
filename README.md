@@ -28,7 +28,7 @@ The following list contains used control keys:
 
 ## Authors
 
-* **Le Hung** - *coding of the game*
+* **Le Hung** - *coder of the game*
 
 ## License
 
